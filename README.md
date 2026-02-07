@@ -1,4 +1,4 @@
-Hi  👋
+Hi 
 I'm a Go Engineer passionate about building scalable, high-performance systems.
 - Currently working on backend systems and microservices
 - Exploring distributed systems and cloud architecture
