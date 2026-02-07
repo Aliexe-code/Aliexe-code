@@ -1,5 +1,5 @@
-Hi there 👋
-I'm a Go backend engineer passionate about building scalable, high-performance systems.
+Hi  👋
+I'm a Go Engineer passionate about building scalable, high-performance systems.
 - Currently working on backend systems and microservices
 - Exploring distributed systems and cloud architecture
 
