@@ -1,6 +1,5 @@
 Hi
-   I'm a Go Engineer passionate about building scalable, high-performance systems.
-   - Currently Seeking New Opportunities as a SWE.
+   I'm a Software Engineer passionate about building scalable, high-performance systems.
    - Solo working on backend systems and microservices.
    - Exploring distributed systems and cloud architecture.
 
